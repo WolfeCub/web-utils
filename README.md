@@ -2,15 +2,15 @@
 
 A general purpose hub of web utilities written to practice web technologies.
 
-- Vue.js
+- [Vue.js](https://vuejs.org/)
   - `typescript`
   - `vue-router`
   - `sass`
   - `eslint` + `prettier`
-- Node.js
-  - `express`
+- [Deno.land](https://deno.land)
   - `typescript`
-  - `joi`
-  - `monk` (for mongo)
+  - `oak` (express-ish)
+  - `computed_types` (joi equivilant)
+  - `mongo`
   - `nanoid`
 - Mongo DB
