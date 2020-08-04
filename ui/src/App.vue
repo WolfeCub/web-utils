@@ -69,6 +69,5 @@ body {
 
 .view-wrapper {
   text-align: center;
-  margin: 10px;
 }
 </style>
